@@ -1,0 +1,20 @@
+*{box-sizing: border-box;}
+
+.main-header{
+    background: linear-gradient(135deg, orange 60%, cyan);
+    height: 110px;
+}
+
+.logo{
+    max-height: 80%;
+    display: inline-block;
+    margin:10px 10px;
+}
+
+ul,
+li,
+.name{
+    display: inline-block;
+    margin: 0 auto;
+}
+
