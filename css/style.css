@@ -3,6 +3,13 @@
 .main-header{
     background: linear-gradient(135deg, orange 60%, cyan);
     height: 110px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
 }
 
 .logo{
@@ -15,6 +22,5 @@ ul,
 li,
 .name{
     display: inline-block;
-    margin: 0 auto;
 }
 
